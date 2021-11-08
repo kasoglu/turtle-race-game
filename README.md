@@ -8,6 +8,12 @@ The Turtle Race Game built in Python with Turtle module.
 
 # Installation
 
+If you don't have ```Turtle``` module on your computer. You can download like as
+
+```bash 
+pip install turtle
+```
+
 Once you've clone the repository on your computer. Open your terminal and run **``main.py``** as 
 
 ```bash
